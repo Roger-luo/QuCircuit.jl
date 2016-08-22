@@ -10,6 +10,8 @@
 
 # Installation
 
+**This package is under developing, installation is not suggested**
+
 ```julia
 Pkg.clone("https://github.com/Roger-luo/QuCircuit.jl")
 ```
